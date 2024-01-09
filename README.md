@@ -1,15 +1,14 @@
-Problem Statement:  
+Problem Statement:
 
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
 Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
 Explore and analyze the data to discover key factors responsible for app engagement and success.  
 
-
 My objective is to understand the trends of the application downloaded from the play store and the count for which type do people are interested (Free or Paid).
 Increase in application download happened in which following category and which genre, People for which age group had downloaded the apps more in the following years, so 
 the makers can get the clear knowledge about the production of apps.
 
-Project Insights Overview  
+Project Insights Overview
 
 Categories and Downloads
 Family: Dominates with 1717 downloads, leading in both unpaid and paid users.
@@ -45,4 +44,6 @@ Translation and Review Analysis
 Translation Counts: Games top with 17,270, while Comics remain at a mere 80.  
 
 
-Sentiment Analysis: Everyone content rating attracts the most positive sentiments.
+Sentiment Analysis:   
+
+Everyone content rating attracts the most positive sentiments.
